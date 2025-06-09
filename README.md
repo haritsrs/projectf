@@ -1,1 +1,1 @@
-# My Financial App
+# My Personal Financial App
